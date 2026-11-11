@@ -8,6 +8,6 @@ def add_numbers (a , b ) :
 num1 = 5
 num2 = 7
 result = add_numbers ( num1 , num2 )
-print ( f"The result of adding { num1 } and { num2 } is: { result }")
+print ( f"{ num1 } + { num2 } = { result }")
 introduction_task ()
 print("Welcome to our Git tutorial")
