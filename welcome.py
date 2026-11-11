@@ -11,5 +11,9 @@ result = add_numbers ( num1 , num2 )
 print ( f"{ num1 } + { num2 } = { result }")
 print (f"{num1} - {num2} = {num1 - num2}")
 print(f"{num1} * {num2} = {num1 * num2}")
+if num2 != 0:
+    print(f"{num1} / {num2} = {num1 / num2:.2f}")
+else: 
+    print("cannot divide by zero")
 introduction_task ()
 print("Welcome to our Git tutorial")
