@@ -10,5 +10,6 @@ num2 = 7
 result = add_numbers ( num1 , num2 )
 print ( f"{ num1 } + { num2 } = { result }")
 print (f"{num1} - {num2} = {num1 - num2}")
+print(f"{num1} * {num2} = {num1 * num2}")
 introduction_task ()
 print("Welcome to our Git tutorial")
