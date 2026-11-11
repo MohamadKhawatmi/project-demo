@@ -10,4 +10,4 @@ num2 = 7
 result = add_numbers ( num1 , num2 )
 print ( f"The result of adding { num1 } and { num2 } is: { result }")
 introduction_task ()
-print("Hello from the feature branch")
+print("Welcome to our Git tutorial")
